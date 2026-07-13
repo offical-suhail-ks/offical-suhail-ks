@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Suhail
 
-### Developer & IT Security Professional · Abu Dhabi, UAE
+### Developer & Cyber Security  · Dubai , UAE
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6E6E6E&center=true&vCenter=true&width=460&lines=Building+SentinelOneX+%E2%80%94+SOC+Platform;Developing+Forge3D+for+FiveM+Pipelines;Shipping+Scripts+under+Herd+Development" alt="Typing SVG" />
 
@@ -13,14 +13,14 @@
 ## About
 
 ```yaml
-role:      Developer · Cyber Security .
+role:      Developer · Cyber Security Student
 location:  Dubai , UAE
 focus:     Cybersecurity tooling · Game modding infra · SaaS platforms
 ```
 
 <br>
 
-Stack
+## Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript" />
@@ -41,16 +41,23 @@ Stack
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react" />
 </div>
+
 <br>
-GitHub Stats
+
+## GitHub Stats
 
 <div align="center">
+
 <img src="https://github-stats-extended.vercel.app/api?username=offical-suhail-ks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E6E6E&icon_color=6E6E6E&text_color=C9D1D9" height="165" alt="github stats" />
 <img src="https://streak-stats.demolab.com/?user=offical-suhail-ks&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E6E6E&ring=6E6E6E&fire=6E6E6E&currStreakLabel=C9D1D9" height="165" alt="streak stats" />
+
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=offical-suhail-ks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E6E6E&text_color=C9D1D9" height="165" alt="top languages" />
+
 </div>
+
 <br>
-Featured Projects
+
+## Featured Projects
 
 <table>
   <tr>
@@ -69,10 +76,13 @@ Featured Projects
     </td>
   </tr>
 </table>
+
 <br>
+
 <div align="center">
-[[Show Image
-](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/offical-suhail-ks))
+
+**[github.com/offical-suhail-ks](https://github.com/offical-suhail-ks)**
+
 <sub>Thanks for stopping by.</sub>
 
 </div>
